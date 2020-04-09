@@ -1,0 +1,1 @@
+This project is follow examples of the blog: https://www.youtube.com/watch?v=C0Wwue9hvHk&list=PLZEIt444jqpCyaGWG1Jvq2ylfOdjppEOR&index=5
